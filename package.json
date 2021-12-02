@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/adam-savard/markdown-docs/issues"
   },
-  "homepage": "https://github.com/adam-savard/markdown-docs#readme"
+  "homepage": "https://github.com/adam-savard/markdown-docs#readme",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "dotenv": "^10.0.0",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1"
+  }
 }

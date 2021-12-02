@@ -1,0 +1,7 @@
+{
+    "Description" : "Configuration file for markdown-docs",
+
+    "workingDirectory" : null,
+    "workingDirectory_description" : "set the above to an absolute path for where files will be written out and read from"
+
+}

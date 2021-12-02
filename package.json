@@ -1,0 +1,26 @@
+{
+  "name": "markdown-docs",
+  "version": "1.0.0",
+  "description": "View markdown docs for code projects in the Terminal and Browser",
+  "main": "mdocs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-savard/markdown-docs.git"
+  },
+  "keywords": [
+    "markdown",
+    "documentation",
+    "docs",
+    "cli",
+    "browser"
+  ],
+  "author": "Adam Savard",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/adam-savard/markdown-docs/issues"
+  },
+  "homepage": "https://github.com/adam-savard/markdown-docs#readme"
+}
